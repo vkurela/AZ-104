@@ -1,5 +1,5 @@
 # Theory Discussed in this module
-_________________________________________________________________
+
 Know your Trainer 
 Prerequisites 
 Class Guideline and Expectations 
@@ -16,7 +16,7 @@ NA
 
  
 
-#Ref 
+# Ref 
 
 https://learn.microsoft.com/en-us/certifications/exams/az-104/ 
 
@@ -30,7 +30,7 @@ https://azure.microsoft.com/en-us/products/
 
  
 
-#Recommended Courses 
+# Recommended Courses 
 
 https://kloudcourse.in/courses/prerequisites-to-learn-cloud-computing/ 
 
